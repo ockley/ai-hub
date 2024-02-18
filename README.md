@@ -5,3 +5,4 @@ This page is for collecting the different tools and techniques I am stumbling ov
 * PixVerse (https://pixverse.ai/)
 * Runway (https://runwayml.com/)
 * Pika Labs (https://pika.art/)
+* Sora (https://openai.com/sora)
